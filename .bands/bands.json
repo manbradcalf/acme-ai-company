@@ -1,0 +1,48 @@
+{
+  "name": "acme-ai-company",
+  "gh_owner": "manbradcalf",
+  "gh_repo": "acme-ai-company",
+  "gh_project": 16,
+  "employees": [
+    {
+      "name": "Mark",
+      "role": "CEO",
+      "slug": "mark-ceo",
+      "mode": "advisory",
+      "label": "ceo"
+    },
+    {
+      "name": "Sundar",
+      "role": "CTO",
+      "slug": "sundar-cto",
+      "mode": "advisory",
+      "label": "cto"
+    },
+    {
+      "name": "Elon",
+      "role": "CMO",
+      "slug": "elon-cmo",
+      "mode": "advisory",
+      "label": "cmo"
+    },
+    {
+      "name": "COO",
+      "role": "Jeff",
+      "slug": "coo-jeff",
+      "mode": "advisory",
+      "label": "jeff"
+    }
+  ],
+  "sprints": [
+    {
+      "name": "AI Market Exploitation",
+      "goal": "Find unexploited market opportunities for AI and present an executive summary on how to exploit them",
+      "heartbeats": 10
+    },
+    {
+      "name": "ai-ai-ai-ai",
+      "goal": "done",
+      "heartbeats": 1
+    }
+  ]
+}
